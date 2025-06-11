@@ -28,4 +28,3 @@ Inclure :
 •	TypeCompte.java
 •	TriFunction.java
 •	Main.java
-
